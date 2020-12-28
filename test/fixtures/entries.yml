@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  timestamp: 2020-12-27 19:43:24
+  status_change: MyString
+  string: MyString
+  lock: one
+
+two:
+  timestamp: 2020-12-27 19:43:24
+  status_change: MyString
+  string: MyString
+  lock: two
